@@ -12,7 +12,6 @@ setup(
   download_url='https://github.com/owais/django-webpack-loader/tarball/{0}'.format(version),
   url='https://github.com/owais/django-webpack-loader', # use the URL to the github repo
   keywords=['django', 'webpack', 'assets'],  # arbitrary keywords
-  data_files=[("", ["LICENSE"])],
   classifiers=[
     'Programming Language :: Python :: 2.7',
     'Programming Language :: Python :: 3.3',
